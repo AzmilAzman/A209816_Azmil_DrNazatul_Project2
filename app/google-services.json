@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352763917757",
+    "project_id": "people-s-voice-a2dfd",
+    "storage_bucket": "people-s-voice-a2dfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352763917757:android:e526fc958b25470e8d4ed4",
+        "android_client_info": {
+          "package_name": "com.example.a209816_azmil_nazatul_project02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0VK0ZnfJOX0YcLyU5Oa_gdoYBx99UIiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
